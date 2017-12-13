@@ -1,0 +1,25 @@
+﻿<Window x:Class="AzureAppDemo.Views.UpdateWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Name="updateWindow"
+        Title="Update Cart Window" Height="200" Width="300">
+    <StackPanel Margin="10" DataContext="{Binding Product, ElementName=updateWindow}">
+        <TextBlock Text="{Binding ProductName}"
+                  FontSize="16"
+                  Height="26" Margin="4"/>
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Height="26" Width="100" Margin="4" FontSize="16">
+                <Run Text="Rate:"/>
+                <Run Text="{Binding Rate}"/>
+            </TextBlock>
+            <TextBlock Text="Quantity:" Margin="4" FontSize="16"/>
+            <TextBox x:Name="quantity"
+                     Text="{Binding Quantity, Mode=TwoWay}"
+                     Height="26" Width="75"
+                     Margin="4" FontSize="16"/>
+        </StackPanel>
+        <Button Content="Update Cart" Margin="0 30 0 10" 
+                Height="30" Width="120"
+                Click="OnUpdateCartClicked"/>
+    </StackPanel>
+</Window>

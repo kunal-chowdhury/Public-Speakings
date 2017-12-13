@@ -1,0 +1,48 @@
+D:\Cloud Storage\OneDrive\GIT Hub\Public Speakings\20171215-15-Dec-2017, Digital Summit 2017, Vizag\AzureAppDemo\AzureAppDemo\bin\Debug\AzureAppDemo.exe.config
+D:\Cloud Storage\OneDrive\GIT Hub\Public Speakings\20171215-15-Dec-2017, Digital Summit 2017, Vizag\AzureAppDemo\AzureAppDemo\bin\Debug\AzureAppDemo.exe
+D:\Cloud Storage\OneDrive\GIT Hub\Public Speakings\20171215-15-Dec-2017, Digital Summit 2017, Vizag\AzureAppDemo\AzureAppDemo\bin\Debug\AzureAppDemo.pdb
+D:\Cloud Storage\OneDrive\GIT Hub\Public Speakings\20171215-15-Dec-2017, Digital Summit 2017, Vizag\AzureAppDemo\AzureAppDemo\bin\Debug\Microsoft.Azure.Mobile.Client.dll
+D:\Cloud Storage\OneDrive\GIT Hub\Public Speakings\20171215-15-Dec-2017, Digital Summit 2017, Vizag\AzureAppDemo\AzureAppDemo\bin\Debug\Newtonsoft.Json.dll
+D:\Cloud Storage\OneDrive\GIT Hub\Public Speakings\20171215-15-Dec-2017, Digital Summit 2017, Vizag\AzureAppDemo\AzureAppDemo\bin\Debug\Microsoft.Azure.Mobile.Client.xml
+D:\Cloud Storage\OneDrive\GIT Hub\Public Speakings\20171215-15-Dec-2017, Digital Summit 2017, Vizag\AzureAppDemo\AzureAppDemo\bin\Debug\Newtonsoft.Json.xml
+D:\Cloud Storage\OneDrive\GIT Hub\Public Speakings\20171215-15-Dec-2017, Digital Summit 2017, Vizag\AzureAppDemo\AzureAppDemo\obj\Debug\AzureAppDemo.csprojResolveAssemblyReference.cache
+D:\Cloud Storage\OneDrive\GIT Hub\Public Speakings\20171215-15-Dec-2017, Digital Summit 2017, Vizag\AzureAppDemo\AzureAppDemo\obj\Debug\App.g.cs
+D:\Cloud Storage\OneDrive\GIT Hub\Public Speakings\20171215-15-Dec-2017, Digital Summit 2017, Vizag\AzureAppDemo\AzureAppDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Cloud Storage\OneDrive\GIT Hub\Public Speakings\20171215-15-Dec-2017, Digital Summit 2017, Vizag\AzureAppDemo\AzureAppDemo\obj\Debug\AzureAppDemo_MarkupCompile.cache
+D:\Cloud Storage\OneDrive\GIT Hub\Public Speakings\20171215-15-Dec-2017, Digital Summit 2017, Vizag\AzureAppDemo\AzureAppDemo\obj\Debug\AzureAppDemo_MarkupCompile.lref
+D:\Cloud Storage\OneDrive\GIT Hub\Public Speakings\20171215-15-Dec-2017, Digital Summit 2017, Vizag\AzureAppDemo\AzureAppDemo\obj\Debug\AzureAppDemo.g.resources
+D:\Cloud Storage\OneDrive\GIT Hub\Public Speakings\20171215-15-Dec-2017, Digital Summit 2017, Vizag\AzureAppDemo\AzureAppDemo\obj\Debug\AzureAppDemo.Properties.Resources.resources
+D:\Cloud Storage\OneDrive\GIT Hub\Public Speakings\20171215-15-Dec-2017, Digital Summit 2017, Vizag\AzureAppDemo\AzureAppDemo\obj\Debug\AzureAppDemo.csproj.GenerateResource.Cache
+D:\Cloud Storage\OneDrive\GIT Hub\Public Speakings\20171215-15-Dec-2017, Digital Summit 2017, Vizag\AzureAppDemo\AzureAppDemo\obj\Debug\AzureAppDemo.csproj.CoreCompileInputs.cache
+D:\Cloud Storage\OneDrive\GIT Hub\Public Speakings\20171215-15-Dec-2017, Digital Summit 2017, Vizag\AzureAppDemo\AzureAppDemo\obj\Debug\AzureAppDemo.exe
+D:\Cloud Storage\OneDrive\GIT Hub\Public Speakings\20171215-15-Dec-2017, Digital Summit 2017, Vizag\AzureAppDemo\AzureAppDemo\obj\Debug\AzureAppDemo.pdb
+C:\Users\kunal_000\Documents\OneDrive\PNG Optimizer\Code\AzureAppDemo\AzureAppDemo\obj\Debug\AzureAppDemo.csprojResolveAssemblyReference.cache
+C:\Users\kunal_000\Documents\OneDrive\PNG Optimizer\Code\AzureAppDemo\AzureAppDemo\obj\Debug\Views\MainWindow.g.cs
+C:\Users\kunal_000\Documents\OneDrive\PNG Optimizer\Code\AzureAppDemo\AzureAppDemo\obj\Debug\App.g.cs
+C:\Users\kunal_000\Documents\OneDrive\PNG Optimizer\Code\AzureAppDemo\AzureAppDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\kunal_000\Documents\OneDrive\PNG Optimizer\Code\AzureAppDemo\AzureAppDemo\obj\Debug\AzureAppDemo_MarkupCompile.cache
+C:\Users\kunal_000\Documents\OneDrive\PNG Optimizer\Code\AzureAppDemo\AzureAppDemo\obj\Debug\AzureAppDemo_MarkupCompile.lref
+C:\Users\kunal_000\Documents\OneDrive\PNG Optimizer\Code\AzureAppDemo\AzureAppDemo\bin\Debug\AzureAppDemo.exe.config
+C:\Users\kunal_000\Documents\OneDrive\PNG Optimizer\Code\AzureAppDemo\AzureAppDemo\bin\Debug\AzureAppDemo.exe
+C:\Users\kunal_000\Documents\OneDrive\PNG Optimizer\Code\AzureAppDemo\AzureAppDemo\bin\Debug\AzureAppDemo.pdb
+C:\Users\kunal_000\Documents\OneDrive\PNG Optimizer\Code\AzureAppDemo\AzureAppDemo\bin\Debug\Microsoft.Azure.Mobile.Client.dll
+C:\Users\kunal_000\Documents\OneDrive\PNG Optimizer\Code\AzureAppDemo\AzureAppDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kunal_000\Documents\OneDrive\PNG Optimizer\Code\AzureAppDemo\AzureAppDemo\bin\Debug\Microsoft.Azure.Mobile.Client.xml
+C:\Users\kunal_000\Documents\OneDrive\PNG Optimizer\Code\AzureAppDemo\AzureAppDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kunal_000\Documents\OneDrive\PNG Optimizer\Code\AzureAppDemo\AzureAppDemo\obj\Debug\Views\AddCartWindow.baml
+C:\Users\kunal_000\Documents\OneDrive\PNG Optimizer\Code\AzureAppDemo\AzureAppDemo\obj\Debug\Views\AddCartWindow.g.cs
+C:\Users\kunal_000\Documents\OneDrive\PNG Optimizer\Code\AzureAppDemo\AzureAppDemo\obj\Debug\Views\MainWindow.baml
+C:\Users\kunal_000\Documents\OneDrive\PNG Optimizer\Code\AzureAppDemo\AzureAppDemo\obj\Debug\AzureAppDemo.g.resources
+C:\Users\kunal_000\Documents\OneDrive\PNG Optimizer\Code\AzureAppDemo\AzureAppDemo\obj\Debug\AzureAppDemo.Properties.Resources.resources
+C:\Users\kunal_000\Documents\OneDrive\PNG Optimizer\Code\AzureAppDemo\AzureAppDemo\obj\Debug\AzureAppDemo.csproj.GenerateResource.Cache
+C:\Users\kunal_000\Documents\OneDrive\PNG Optimizer\Code\AzureAppDemo\AzureAppDemo\obj\Debug\AzureAppDemo.csproj.CoreCompileInputs.cache
+C:\Users\kunal_000\Documents\OneDrive\PNG Optimizer\Code\AzureAppDemo\AzureAppDemo\obj\Debug\AzureAppDemo.exe
+C:\Users\kunal_000\Documents\OneDrive\PNG Optimizer\Code\AzureAppDemo\AzureAppDemo\obj\Debug\AzureAppDemo.pdb
+C:\Users\kunal_000\Documents\OneDrive\PNG Optimizer\Code\AzureAppDemo\AzureAppDemo\obj\Debug\Views\UpdateWindow.baml
+C:\Users\kunal_000\Documents\OneDrive\PNG Optimizer\Code\AzureAppDemo\AzureAppDemo\obj\Debug\Views\UpdateWindow.g.cs
+D:\Cloud Storage\OneDrive\GIT Hub\Public Speakings\20171215-15-Dec-2017, Digital Summit 2017, Vizag\AzureAppDemo\AzureAppDemo\obj\Debug\Views\AddCartWindow.baml
+D:\Cloud Storage\OneDrive\GIT Hub\Public Speakings\20171215-15-Dec-2017, Digital Summit 2017, Vizag\AzureAppDemo\AzureAppDemo\obj\Debug\Views\UpdateWindow.baml
+D:\Cloud Storage\OneDrive\GIT Hub\Public Speakings\20171215-15-Dec-2017, Digital Summit 2017, Vizag\AzureAppDemo\AzureAppDemo\obj\Debug\Views\AddCartWindow.g.cs
+D:\Cloud Storage\OneDrive\GIT Hub\Public Speakings\20171215-15-Dec-2017, Digital Summit 2017, Vizag\AzureAppDemo\AzureAppDemo\obj\Debug\Views\MainWindow.g.cs
+D:\Cloud Storage\OneDrive\GIT Hub\Public Speakings\20171215-15-Dec-2017, Digital Summit 2017, Vizag\AzureAppDemo\AzureAppDemo\obj\Debug\Views\UpdateWindow.g.cs
+D:\Cloud Storage\OneDrive\GIT Hub\Public Speakings\20171215-15-Dec-2017, Digital Summit 2017, Vizag\AzureAppDemo\AzureAppDemo\obj\Debug\Views\MainWindow.baml
